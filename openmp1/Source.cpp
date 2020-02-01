@@ -80,9 +80,9 @@ void Flatten(float** A, float** B, float* A_flat, float* B_flat_trans, int M, in
 
 void SeqMultiply1(float** A, float** B, float* C, int M, int N, int K)
 {
-	// sequential matrix multiplication using two-dimensional vectors
+	// sequential matrix multiplication using two-dimensional arrays
 	cout << "////////////////////////////////////////////////////////////////////" << endl;
-	cout << "sequential matrix multiplication using two-dimensional vectors" << endl;
+	cout << "sequential matrix multiplication using two-dimensional arrays" << endl;
 
 	int idx1, idx2, idx3;
 	float tmp_val;
