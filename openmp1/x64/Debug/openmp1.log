@@ -1,5 +1,2 @@
 ﻿  Main.cpp
-  Source.cpp
-  Generating Code...
-C:\Users\epour\Documents\GitHub\Parallel-Matrix-Multiplication\openmp1\Source.cpp(209,9): warning C4101: 'tmp_val': unreferenced local variable
   openmp1.vcxproj -> C:\Users\epour\Documents\GitHub\Parallel-Matrix-Multiplication\x64\Debug\openmp1.exe
