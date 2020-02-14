@@ -7,4 +7,5 @@ These optimizations include:
 3. Using SSE/AVX vectorization intrinsics to utilize the maximum computational capacity of each core.
 4. OpenMP parallelization to take advantage of all logical cores of a multi-processor.
 
-There are different versions of the matrix multiplication function in the code, each uses one or more of the mentioned optimization concepts above.
+There are different versions of the matrix multiplication function in the code, each uses one or more of the mentioned optimization concepts above. The following pictures show the speedup over the naive implementation each improved function achieves:
+
