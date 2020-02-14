@@ -9,5 +9,5 @@ These optimizations include:
 
 There are different versions of the matrix multiplication function in the code, each uses one or more of the mentioned optimization concepts above. The following pictures show the speedup over the naive implementation each improved function achieves on core-i7 CPU with 12 logical cores:
 
-![alt text](2020-02-14 (4).png)
-![alt text](2020-02-14 (5).png)
+![alt text](2020-02-14-1.png)
+![alt text](2020-02-14-2.png)
