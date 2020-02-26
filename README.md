@@ -1,5 +1,4 @@
 # Parallel-Matrix-Multiplication
-
 Parallel matrix multiplication using OpenMP/vectorization.
 
 This code is developed in C++ and takes advantage of several code optimization concepts to speed up matrix multiplication. 
